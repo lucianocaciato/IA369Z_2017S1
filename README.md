@@ -6,11 +6,12 @@ Este README é composto de:
 - Instruções de Instalação;
 - Instruções de Configuração;
 - Informações sobre a versão de software;
+- Licenças;
 - Organização do GitHub.
 
  ** -----------------------------
 
-# Instruções de Instalação:
+## Instruções de Instalação:
  
  ### Instalação do Jupyter Notebook:
 
@@ -41,14 +42,14 @@ O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguint
 - Linux CentOS Linux release 7.3.1611 (Core)
    Fácil de instalar utilizando anaconda. Pode ser instalado também pelo gerenciador de instalação de pacotes yum: #> yum install anaconda.
 
-  ## Informações sobre a versão de software. 
+## Informações sobre a versão de software. 
   
 - Anaconda3-4.3.1-Windows-x86_64.exe;
 - VirtualBox-5.1.18-114002-Win.exe;
 - CentOS-7-x86_64-DVD-1611.iso;
 - Microsoft Windows 7 Professional em Português;
   
-  ## Licenças
+## Licenças
   Leia em LICENSE.
  
 ## Organização do GitHub.
@@ -58,6 +59,4 @@ O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguint
 - /data --> dataset e informações necessárias para o funcionamento do projeto;
 - /deliver --> diretório destinado para entrega dos notebooks;
 - /dev --> diretório de desenvolvimento;
-- /figures --> Figuras e imagens do projeto.
-
- 
+- /figures --> diretório de figuras e imagens do projeto.
