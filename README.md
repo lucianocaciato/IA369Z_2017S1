@@ -5,7 +5,7 @@ README.
 Este README é composto de:
 - Instruções de Instalação;
 - Instruções de Configuração;
-- Informações sobre a versão dos softwares.
+- Informações sobre a versão de software.
  
  Estrutura:
  
