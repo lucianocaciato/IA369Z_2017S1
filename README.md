@@ -7,10 +7,12 @@ Este README é composto de:
 - Instruções de Configuração;
 - Informações sobre a versão de software;
 - Organização do GitHub.
+
  ** -----------------------------
- # Instruções de Instalação:
+
+# Instruções de Instalação:
  
- ## Instalação do Jupyter Notebook:
+ ### Instalação do Jupyter Notebook:
 
 * NO MICROSOFT WINDOWS (Instalação em bare metal): Baixar do site do Jupyter em jupyter.org.
 O pacote utilizado para o teste foi o Anaconda3-4.3.1-Windows-x86_64.exe. Faça a instalação padrão para qualquer Windows. Após a instalação será mostrada no menu iniciar um link para aplicativa chamado "Anaconda3 64bit", escolha a opção Jupyter Notebook. 
@@ -21,42 +23,41 @@ Os pacotes utilizados para os testes foram VirtualBox-5.1.18-114002-Win.exe (má
 A instalação do hipervisor Virtualbox foi no Sistema Operacional Microsoft Windows 7 Professional com service pack 1.
 Faça a instalação padrão para qualquer Windows. Após a instalação será mostrada no menu iniciar um link para aplicativa chamado "Oracle VM VirtualBox" escolha a opção Oracle VM Virtualbox.
 
- ** Instruções de Configuração; **
+ ## Instruções de Configuração; 
+ 
 Especificação da Máquina Virtual: 
   Nome: Centos, Versão: Red Hat (64-bit), Memória Base: 1024MB, 
   Processador: 4 vCPU (Intel I5-2400 3.4Ghz), Armazenamento (VMDK): 30,31GB em tamanho fixo,
   Virtualização de Hardware: VT-x, Ordem de boot: Disco Ótico, Disco Rígido e Rede,
   Local de Instalação: D:\VirtualMachines\           
 
- ** --- No Jupyter Notebook ** 
+ ### --- No Jupyter Notebook
 
 O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguintes especificações:
 
-** Microsoft Windows 7 Professional com service pack 1 **
+- Microsoft Windows 7 Professional com service pack 1
   Instalação padrão do Windows, através de duplo clique no pacote executável. Permite a escolha o diretório de instalação.   
 
-** Linux CentOS Linux release 7.3.1611 (Core) **
+- Linux CentOS Linux release 7.3.1611 (Core)
    Fácil de instalar utilizando anaconda. Pode ser instalado também pelo gerenciador de instalação de pacotes yum: #> yum install anaconda.
 
-  ** Informações sobre a versão de software. **
+  ## Informações sobre a versão de software. 
+  
 - Anaconda3-4.3.1-Windows-x86_64.exe;
 - VirtualBox-5.1.18-114002-Win.exe;
 - CentOS-7-x86_64-DVD-1611.iso;
 - Microsoft Windows 7 Professional em Português;
   
-  ** Licenças **
+  ## Licenças
   Leia em LICENSE.
  
- ** - Organização do GitHub. ** 
+## Organização do GitHub.
  
- Foi criado um esttrutura de diretórios sendo:
- 
-/data
+ A estrutura de diretórios estão organizada da seguinte forma:
 
-/deliver
-
-/dev
-
-/figures
+- /data --> dataset e informações necessárias para o funcionamento do projeto;
+- /deliver --> diretório destinado para entrega dos notebooks;
+- /dev --> diretório de desenvolvimento;
+- /figures --> Figuras e imagens do projeto.
 
  
