@@ -64,7 +64,4 @@ O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguint
 
 ## 6. Instalação da Máquina Virtual
 
-Para este projeto foi criada uma máquina virtual com todos os softwares utilizado e seus notebooks. Para Instalar siga os passos a seguir:
-- Instale o hipervisor, no nosso caso foi o VirtualBox-5.1.18-114002-Win.exe;
-- Baixe a Máquina Virtual no link conforme disponibilizado para o avaliador;
-
+Para este projeto foi criado uma máquina virtual com todos os softwares utilizado e seus notebooks. Veja em README-VM.md
