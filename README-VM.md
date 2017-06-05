@@ -4,7 +4,7 @@ README-VM.md
 
 Para Instalar siga os passos a seguir:
 - Instale o hipervisor, no nosso caso foi o VirtualBox-5.1.18-114002-Win.exe;
-- Baixe a Máquina Virtual no link disponibilizado para o avaliador;
+- Baixe a Máquina Virtual no link disponibilizado;
 - Execute o VirtualBox, clique em Arquivo --> Importar Appliance --> VMLucianoECaciato.ovf --> siga os passos do guia de instalação
 - Veja se seu sistema operacional suporta a configuração e clique para iniciar a máquina virtual.
 - Quando estiver um funcionamento a máquina virtual terá um IP orinário do NAT configurado anteriormente na geração da imagem. 
