@@ -8,10 +8,11 @@ Este README é composto de:
 - Informações sobre a versão de software;
 - Licenças;
 - Organização do GitHub.
+- Instalação da Máquina Virtual
 
  ** -----------------------------
 
-## Instruções de Instalação:
+## 1. Instruções de Instalação:
  
  ### Instalação do Jupyter Notebook:
 
@@ -24,7 +25,7 @@ Os pacotes utilizados para os testes foram VirtualBox-5.1.18-114002-Win.exe (má
 A instalação do hipervisor Virtualbox foi no Sistema Operacional Microsoft Windows 7 Professional com service pack 1.
 Faça a instalação padrão para qualquer Windows. Após a instalação será mostrada no menu iniciar um link para aplicativa chamado "Oracle VM VirtualBox" escolha a opção Oracle VM Virtualbox.
 
- ## Instruções de Configuração; 
+ ## 2. Instruções de Configuração; 
  
 Especificação da Máquina Virtual: 
   Nome: Centos, Versão: Red Hat (64-bit), Memória Base: 1024MB, 
@@ -42,17 +43,17 @@ O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguint
 - Linux CentOS Linux release 7.3.1611 (Core)
    Fácil de instalar utilizando anaconda. Pode ser instalado também pelo gerenciador de instalação de pacotes yum: #> yum install anaconda.
 
-## Informações sobre a versão de software. 
+## 3. Informações sobre a versão de software. 
   
 - Anaconda3-4.3.1-Windows-x86_64.exe;
 - VirtualBox-5.1.18-114002-Win.exe;
 - CentOS-7-x86_64-DVD-1611.iso;
 - Microsoft Windows 7 Professional em Português;
   
-## Licenças
+## 4. Licenças
   Leia em LICENSE.
  
-## Organização do GitHub.
+## 5. Organização do GitHub.
  
  A estrutura de diretórios estão organizada da seguinte forma:
 
@@ -60,3 +61,10 @@ O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguint
 - /deliver --> diretório destinado para entrega dos notebooks;
 - /dev --> diretório de desenvolvimento;
 - /figures --> diretório de figuras e imagens do projeto.
+
+## 6. Instalação da Máquina Virtual
+
+Para este projeto foi criada uma máquina virtual com todos os softwares utilizado e seus notebooks. Para Instalar siga os passos a seguir:
+- Instale o hipervisor, no nosso caso foi o VirtualBox-5.1.18-114002-Win.exe;
+- Baixe a Máquina Virtual no link conforme disponibilizado para o avaliador;
+
