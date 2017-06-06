@@ -67,4 +67,5 @@ O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguint
 Para este projeto foi criado uma máquina virtual com todos os softwares utilizado e seus notebooks. Veja em README-VM.md
 
 ## Para realizar suas reprodutividade
-Os parâmetros que podem ser alterados para os testes são as fontes de dados no diretório /data, notebooks 
+Os parâmetros que podem ser alterados para os testes são as fontes de dados no diretório /data, notebooks: dc_hyperscale.csv
+dc_ip_traffic.csv
