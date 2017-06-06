@@ -65,3 +65,6 @@ O jupyter notebook foi testado em dois ambientes: Windows e Linux com as seguint
 ## 6. Instalação da Máquina Virtual
 
 Para este projeto foi criado uma máquina virtual com todos os softwares utilizado e seus notebooks. Veja em README-VM.md
+
+## Para realizar suas reprodutividade
+Os parâmetros que podem ser alterados para os testes são as fontes de dados no diretório /data, notebooks 
