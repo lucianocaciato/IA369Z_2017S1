@@ -71,4 +71,4 @@ Os parâmetros que podem ser alterados para os testes são as fontes de dados no
 dc_ip_traffic.csv
 
 ## 8. Entrega dos notebooks
-Os notebooks destinados para a entrega da disciplina estão localizados na diretório /deliver
+Os notebooks destinados para a entrega da disciplina estão localizados no diretório /deliver
