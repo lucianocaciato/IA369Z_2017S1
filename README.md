@@ -1,6 +1,6 @@
 README.
-## <center> Reprodutibilidade em Pesquisa Computacional
-### Projeto da Disciplina IA369Z_2017S1 -Faculdade de Engenharia Elétrica e de Computação Unicamp </center>
+## <center> Reprodutibilidade em Pesquisa Computacional </center>
+### <center> Projeto da Disciplina IA369Z_2017S1 -Faculdade de Engenharia Elétrica e de Computação Unicamp </center>
 
 Este README é composto de:
 - Instruções de Instalação;
