@@ -70,7 +70,7 @@ Para este projeto foi criado uma máquina virtual com todos os softwares utiliza
 Os parâmetros que podem ser alterados para os testes são as fontes de dados no diretório /data, notebooks: dc_hyperscale.csv
 dc_ip_traffic.csv
 
-A base de dados fornecida neste trabalho (dc_hyperscale.csv, dc_ip_traffic.csv) é fictícia e utlizada somente para testes acadêmicos.
+A base de dados fornecida neste trabalho (dc_hyperscale.csv, dc_ip_traffic.csv) é fictícia e utilizada somente para esta disciplina.
 
 ## 8. Entrega dos notebooks
 Os notebooks destinados para a entrega da disciplina estão localizados no diretório /deliver
